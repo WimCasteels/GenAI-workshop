@@ -1,8 +1,8 @@
-# ICT Praktijkdag - [Maak je eigen AI-assistent](https://www.ictdag.be/48/aanbod/sessie/102)
+# GenAI Workshop - AP Hogeschool
 
 Workshop materiaal voor het bouwen van AI-applicaties met Python en Streamlit.
 
-**Datum:** 2 februari 2026
+**Datum:** 11 maart 2026
 
 **Lesgever:** Wim Casteels - [wimcasteels.be](https://wimcasteels.be)
 
